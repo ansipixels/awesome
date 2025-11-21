@@ -1,5 +1,7 @@
 # awesome
-List of awesome projects/demos that are using the ansipixels TUI library
+List of awesome projects/demos that are using the ansipixels TUI library.
+
+See it with screenshots on https://ansipixels.github.io/
 
 - The library itself includes demoes like brick, game of life,... https://github.com/fortio/terminal/#fortioorgterminalansipixels
 - Digital and analog clock in your terminal: https://github.com/fortio/tclock#tclock
