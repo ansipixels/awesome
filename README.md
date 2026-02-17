@@ -6,6 +6,8 @@ See it with screenshots on https://ansipixels.github.io/
 - The library itself includes demoes like brick, game of life,... https://github.com/fortio/terminal/#fortioorgterminalansipixels
 - Digital and analog clock in your terminal: https://github.com/fortio/tclock#tclock
 - Color picker and decoder and translation in various color spaces including OKLCH: https://github.com/fortio/tfonts#tfonts
+- Programmers calculator: https://github.com/fortio/tcalc#tcalc
+- 3D model rendering in your terminal: https://github.com/ansipixels/trophy#trophy
 - Trees in your terminal: https://github.com/fortio/tbonsai#tbonsai
 - Explore your fonts in color and in your terminal: https://github.com/fortio/tfonts#tfonts
 - C64 inspired multicolor maze and solver: https://github.com/fortio/tmaze#tmaze
